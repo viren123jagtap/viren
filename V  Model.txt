@@ -1,0 +1,27 @@
+V and V Model:
+
+1. In the prototype model we have two different disadvantages, No parallel delivarables and No requirement review process. 
+2. To avoid this Disadvantages we aprroach v and v model, in which verification and validation this two phases are referred by v model.
+3. In one phase we do verification and another phase we do validaion, that the reason we called v and v model.
+4. when ever we have complex requirement then we go with V and V Model.
+5. In this model once Bussiness Analyst collects all the requirement then it is handover to the development team as well as testing team.
+6. Development team will start convert all CRS into SRS and testing team review CRS they check any missing and wrong requirment and write acceptance test document.
+7. Once the SRS is prepared devlopment team start HLD desining and again testing team review HLD and write the system test document, after completing HLD 
+   devlopment team is go with LLD and tetsing team review Integration test document.
+8. once LLD submit and review by developer coding part is started and after  that tetsing team review unit test document. 
+9. this process continue still the application is bug free.
+
+
+
+Advantages--
+ 
+1.Parralel delivarable is available. 
+2.Requirement review process is available
+3.Quality product
+4.Robust product
+
+Disadvantages--
+
+1. Costly
+2. Time Consuming
+
